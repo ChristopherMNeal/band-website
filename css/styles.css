@@ -2,8 +2,17 @@
   width: 30%;
   float: left;
   background-color: aqua;
+  border: solid red;
+  border-width: 3px;
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 img {
   float: right;
+  padding: 5px;
 } 
+
+p {
+  padding: 100px;
+}

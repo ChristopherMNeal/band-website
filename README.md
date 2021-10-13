@@ -2,7 +2,7 @@
 
 #### By _**Christopher Neal and Zach Wilson**_
 
-#### _Website to demonstrate use of float to make colums and float images_
+#### _Website to demonstrate use of float to make columns and float images_
 
 ## Technologies Used
 
